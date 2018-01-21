@@ -1,0 +1,9 @@
+CONFIG_A=y
+CONFIG_B=y
+# CONFIG_C is not set
+CONFIG_D=y
+CONFIG_E=y
+CONFIG_F=y
+CONFIG_G=y
+# CONFIG_H is not set
+CONFIG_I=y
